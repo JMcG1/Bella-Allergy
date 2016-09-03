@@ -18,7 +18,8 @@
         <activity android:name=".PeanutCourses" />
         <activity android:name=".DairyCourses" />
         <activity android:name=".EggCourses" />
-        <activity android:name=".TreeNutCourses"></activity>
+        <activity android:name=".TreeNutCourses" />
+        <activity android:name=".crustacean_courses"></activity>
     </application>
 
 </manifest>
