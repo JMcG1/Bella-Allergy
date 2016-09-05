@@ -20,7 +20,13 @@
         <activity android:name=".EggCourses" />
         <activity android:name=".TreeNutCourses" />
         <activity android:name=".crustacean_courses" />
-        <activity android:name=".PeanutStarterList"></activity>
+        <activity android:name=".PeanutStarterList" />
+        <activity android:name=".PeanutPizzaList" />
+        <activity android:name=".PeanutItalianClassicsList" />
+        <activity android:name=".PeanutSidesList" />
+        <activity android:name=".PeanutPastaList" />
+        <activity android:name=".PeanutGriInsList" />
+        <activity android:name=".PeanutDessertsList"></activity>
     </application>
 
 </manifest>

@@ -17,8 +17,36 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="@string/mains"
-        android:id="@+id/buttPeaMn" />
+        android:text="@string/pizza"
+        android:id="@+id/buttPeaPiz" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/italian_classics"
+        android:id="@+id/buttPeaItCla" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/Sides"
+        android:id="@+id/buttPeaSide" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/Pasta"
+        android:id="@+id/buttPeaPas" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/grills_and_insalata"
+        android:id="@+id/buttPeaGriIns" />
 
     <Button
         android:layout_width="match_parent"

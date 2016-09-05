@@ -15,4 +15,9 @@
     <string name="starters">Starters</string>
     <string name="mains">Mains</string>
     <string name="desserts">Desserts</string>
+    <string name="pizza">Pizza</string>
+    <string name="italian_classics">Italian Classics</string>
+    <string name="Sides">Sides</string>
+    <string name="Pasta">Pasta</string>
+    <string name="grills_and_insalata">Grills and Insalata</string>
 </resources>
