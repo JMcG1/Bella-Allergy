@@ -20,4 +20,117 @@
     <string name="Sides">Sides</string>
     <string name="Pasta">Pasta</string>
     <string name="grills_and_insalata">Grills and Insalata</string>
+
+
+
+    <string-array name="dairyStarters">
+        <item>Mixed Italian Olives</item>
+        <item>Bruschetta</item>
+        <item>Insalata Rosso</item>
+    </string-array>
+
+    <string-array name="dairyPizza">
+        <item>All pizzas contain dairy unless made without cheese</item>
+    </string-array>
+
+    <string-array name="dairyItalianClassics">
+        <item>Pollo Cacciatore</item>
+    </string-array>
+
+    <string-array name="dairySides">
+        <item>Marzanini Vine Tomatoes</item>
+        <item>Roast Mediterranean Veg</item>
+        <item>Chunky Chips</item>
+        <item>Mixed Salad</item>
+        <item>Onion Rings with Barbecue Sauce</item>
+    </string-array>
+
+    <string-array name="dairyPasta">
+        <item>Pomodoro</item>
+    </string-array>
+
+    <string-array name="dairyGriIns">
+        <item>Butterflied Chicken Breast</item>
+        <item>10oz Ribeye</item>
+        <item>8oz Sirloin</item>
+        <item>Instalata Verde</item>
+        <item>Pollo Verde</item>
+        <item>Salmon Verde</item>
+        <item>Pollo Arcobaleno</item>
+        <item>Pollo Arancia</item>
+    </string-array>
+
+    <string-array name="eggStarters">
+        <item>Mini Ciabatta Bites</item>
+        <item>Mozzarella Pizza Bread</item>
+        <item>Caramelised Onion Pizza Bread</item>
+        <item>Chilli Pizza Bread</item>
+        <item>Zuppa del Giorno</item>
+        <item>Bruschetta</item>
+        <item>Funghi Arrosto</item>
+        <item>Gamberi</item>
+        <item>Arancini Peperonata</item>
+        <item>Insalata Caprese</item>
+        <item>Insalata Rosso</item>
+    </string-array>
+
+    <string-array name="eggPizza">
+        <item>Margherita</item>
+        <item>Cotto</item>
+        <item>Carne Mista</item>
+        <item>Pollo and Pancetta Barbecue</item>
+        <item>Pollo Piccante</item>
+        <item>Pepperoni Piccante</item>
+        <item>Quattro Stagioni Legumi</item>
+        <item>Ripiena Crust (Add)</item>
+        <item>Gluten Free Base</item>
+        <item>Queen Margherita (Roma)</item>
+        <item>Luganica Rosmarino (Roma)</item>
+        <item>Pollo Timo (Roma)</item>
+        <item>Primavera (Roma)</item>
+        <item>Calzone Legume</item>
+        <item>Pizza Vita Olive</item>
+    </string-array>
+
+    <string-array name="eggItalianClassics">
+        <item>Pollo Funghi</item>
+        <item>Pollo Cacciatore</item>
+        <item>Filetto di Spigola</item>
+        <item>Gamberoni Risotto</item>
+    </string-array>
+
+    <string-array name="eggSides">
+        <item>Marzanini Vine Tomatoes</item>
+        <item>Roast Mediterranean Veg</item>
+        <item>Corn on the Cob</item>
+        <item>Chunky Chips</item>
+        <item>Basil Mash</item>
+        <item>Tenderstem Broccoli in Chilli Butter</item>
+        <item>Mixed Salad</item>
+        <item>Onion Rings with Barbecue Sauce</item>
+    </string-array>
+
+    <string-array name="eggPasta">
+        <item>Pomodoro</item>
+        <item>Bolognese</item>
+        <item>Gamberoni</item>
+    </string-array>
+
+    <string-array name="eggGriIns">
+        <item>Butterflied Chicken Breast</item>
+        <item>10oz Ribeye</item>
+        <item>8oz Sirloin</item>
+        <item>Peppercorn Sauce</item>
+        <item>Mushroom Sauce</item>
+        <item>Marsala Wine Sauce</item>
+        <item>Garlic Butter</item>
+        <item>Barbabietola Rossa</item>
+        <item>Insalata Verde</item>
+        <item>Pollo Verde</item>
+        <item>Salmon Verde</item>
+        <item>Pollo Arcobaleno</item>
+        <item>Pollo Arancia</item>
+    </string-array>
 </resources>
+
+
